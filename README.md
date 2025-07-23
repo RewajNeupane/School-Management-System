@@ -1,1 +1,2 @@
 # School-Management-System
+This project involves the design and implementation of a structured database system using MySQL to manage school operations. It includes tables for students, teachers, subjects, attendance, and grades. The system ensures data consistency through relationships and constraints and allows efficient querying for administrative tasks. This backend system is suitable for integration with school software to automate day-to-day academic processes
